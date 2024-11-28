@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>in.tulasi</groupId>
 	<artifactId>02-Spring-Boot-App</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>0.0.1-RELESE</version>
 	<packaging>war</packaging>
 	<name>02-Spring-Boot-App</name>
 	<description>Demo project for Spring Boot</description>
